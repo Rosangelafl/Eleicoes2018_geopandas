@@ -1,7 +1,7 @@
 # Eleicoes2018_geopandas
 Estudo.: Tutorial Pandas e Geopandas
 
-[Plotando o resultado das eleições](https://github.com/Rosangelafl/Eleicoes2018_geopandas/blob/master/download.png)
+![Plotando o resultado das eleições](https://github.com/Rosangelafl/Eleicoes2018_geopandas/blob/master/download.png)
 
 Plotando o resultado das eleições gerais de 2018 com Pandas, Geopandas => [Tutorial do LabHacker](https://youtu.be/hyDvL_CzbX4)
 
