@@ -1,4 +1,4 @@
-# Eleicoes
+# Eleiçoes
 
 ![Contando candidatos por partido](https://github.com/Rosangelafl/Eleicoes_Brasil/blob/master/count_cand_partido.png)
 
