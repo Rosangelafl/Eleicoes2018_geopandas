@@ -3,11 +3,11 @@
 
 Análise dos dados do TSE, eleições municipais de 2020 com matplolib
 
-[Fonte:](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais)
+Fonte: https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais
 
-Baixados em 1 de setembro 2020. As planilhas do TSE estão em constante alteração, para dados mais atualizados baixar os csv no link acima
+Baixados em 1 de setembro 2020. As planilhas do TSE estão em constante atualização, para dados mais recentes baixar os csv no link acima
 
-[Planilhas csv e documentação em](https://bit.ly/3jLmQt5)
+Planilhas csv e documentação em https://bit.ly/3jLmQt5 e bens candidatos em https://bit.ly/3lnh6Ge
 
 
 
