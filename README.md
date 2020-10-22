@@ -8,7 +8,7 @@ candidatos_eleicoes2020_red.ipynb os dados foram baixados em 1 de outubro de 202
 
 candidato2020.ipynb dados baixados em 17 de outubro de 2020
 
-Análise isolada dos bens declarados 17/10/2020, bem_candidato2020.iypnb, planilhas em [https://bit.ly/3dJ6DCa]
+Análise isolada dos bens declarados 17/10/2020, bem_candidato2020.iypnb, planilhas em https://bit.ly/3dJ6DCa
 
 Planilhas csv e documentação em https://bit.ly/3jLmQt5 e bens candidatos em https://bit.ly/3lnh6Ge
 
